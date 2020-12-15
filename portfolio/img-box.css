@@ -1,0 +1,309 @@
+.img-box1 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box1 img {
+  width: 255px;
+  height: auto;
+}
+.img-box1 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		50px;
+    color:			#fff;
+}
+.img-box1 .mask {
+    width:			0%;
+    height:			102%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			-15px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box1:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box2 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box2 img {
+  width: 255px;
+  height: auto;
+}
+.img-box2 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		50px;
+    color:			#fff;
+}
+.img-box2 .mask {
+    width:			90%;
+    height:			101%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			24px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box2:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box3 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box3 img {
+  width: 255px;
+  height: auto;
+}
+.img-box3 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		50px;
+    color:			#fff;
+}
+.img-box3 .mask {
+    width:			90%;
+    height:			102%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			-15px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box3:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box4 {
+    width: 25%;
+    position: relative;
+  
+  }
+  .img-box4 img {
+    width: 255px;
+    height: auto;
+  }
+  .img-box4 .caption {
+      font-size:		130%;
+      text-align: 		center;
+      padding-top:		15px;
+      color:			#fff;
+  }
+  .img-box4 .mask {
+      width:			90%;
+      height:			82%;
+      position:		absolute;	/* 絶対位置指定 */
+      top:			-11px;
+      left:			0;
+      opacity:		0;	/* マスクを表示しない */
+      background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+      -webkit-transition:	all 0.2s ease;
+      transition:		all 0.2s ease;
+  }
+  .img-box4:hover .mask {
+    opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box5 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box5 img {
+  width: 255px;
+  height: auto;
+}
+.img-box5 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		20px;
+    color:			#fff;
+}
+.img-box5 .mask {
+    width:			90%;
+    height:			82%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			54px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box5:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box6 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box6 img {
+  width: 255px;
+  height: auto;
+}
+.img-box6 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		15px;
+    color:			#fff;
+}
+.img-box6 .mask {
+    width:			90%;
+    height:			82%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			-11px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box6:hover .mask {
+  opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box7 {
+  width: 25%;
+  position: relative;
+
+}
+.img-box7 img {
+  width: 255px;
+  height: auto;
+}
+.img-box7 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		80px;
+    color:			#fff;
+}
+.img-box7 .mask {
+    width:			90%;
+    height:			125%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			-50px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box7:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box8 {
+    width: 25%;
+    position: relative;
+  }
+  .img-box8 img {
+    width: 255px;
+    height: auto;
+  }
+
+  .img-box8 .caption {
+      font-size:		130%;
+      text-align: 		center;
+      padding-top:		80px;
+      color:			#fff;
+  }
+
+  .img-box8 .mask {
+      width:			90%;
+      height:			128%;
+      position:		absolute;	/* 絶対位置指定 */
+      top:			-20px;
+      left:			0;
+      opacity:		0;	/* マスクを表示しない */
+      background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+      -webkit-transition:	all 0.2s ease;
+      transition:		all 0.2s ease;
+  }
+  .img-box8:hover .mask {
+   opacity:		1;	/* マスクを表示する */
+}
+
+
+.img-box9 {
+  width: 25%;
+  position: relative;
+}
+.img-box9 img {
+  width: 255px;
+  height: auto;
+}
+.img-box9 .caption {
+    font-size:		130%;
+    text-align: 		center;
+    padding-top:		80px;
+    color:			#fff;
+}
+.img-box9 .mask {
+    width:			90%;
+    height:			125%;
+    position:		absolute;	/* 絶対位置指定 */
+    top:			-50px;
+    left:			0;
+    opacity:		0;	/* マスクを表示しない */
+    background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+    -webkit-transition:	all 0.2s ease;
+    transition:		all 0.2s ease;
+}
+.img-box9:hover .mask {
+opacity:		1;	/* マスクを表示する */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* アイフォン用 */
+@media (max-width: 479px) { /*ウィンドウ幅が最大479pxまでの場合に適用*/
+  .img-box7 {
+    width: 100%;
+    position: absolute;
+  }
+  .img-box8 {
+    width: 100%;
+    position: absolute;
+  }
+  .img-box9 {
+    width: 100%;
+    position: absolute;
+  }
+
+
+
+
+
+}
